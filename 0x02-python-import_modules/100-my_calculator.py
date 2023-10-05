@@ -6,7 +6,6 @@ if __name__ == "__main__":
     if total !=  3:
         print("./100-my_calculator.py <a> <operator> <b>")
         exit(1)
- 
     else:
         num1 = int(argv[1])
         num2 = int(argv[3])
